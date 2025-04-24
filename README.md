@@ -1,6 +1,6 @@
 # Traditional-OOP-Practice
 
-In these project we ha 21 steps to covered OOPS method
+In these assignment we ha 21 steps to covered OOPS method
 
 # 1. Using self 🧍‍♂️
 Task: Create a Student class with attributes name and marks. Initialize them using self in the constructor, and make a display() method to print details.
